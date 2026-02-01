@@ -49,3 +49,8 @@ Regularization reduces overfitting.
 Ridge shrinks coefficients.
 Lasso performs feature elimination.
 Elastic Net provides a balanced approach.
+
+Train MSE: 4.106575209442725
+Test  MSE: 5.018464823409388
+ Ridge coefficients [2.24541633  1.22014946 -0.85057637 -0.07724701 -0.09153777  0.17941521]
+ lasso coefficients [0. 0. 0. 0. 0. 0.]
